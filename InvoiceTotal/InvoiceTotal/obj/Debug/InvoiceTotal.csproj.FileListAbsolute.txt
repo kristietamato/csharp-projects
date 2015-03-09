@@ -7,3 +7,12 @@ C:\Users\Kristie\OneDrive\Software Development\Classes\CS 213\InvoiceTotal\Invoi
 C:\Users\Kristie\OneDrive\Software Development\Classes\CS 213\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache
 C:\Users\Kristie\OneDrive\Software Development\Classes\CS 213\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
 C:\Users\Kristie\OneDrive\Software Development\Classes\CS 213\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Users\Kristie\OneDrive\Software Development\Classes\CS 213\Csharp Projects\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\Kristie\OneDrive\Software Development\Classes\CS 213\Csharp Projects\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\Kristie\OneDrive\Software Development\Classes\CS 213\Csharp Projects\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Users\Kristie\OneDrive\Software Development\Classes\CS 213\Csharp Projects\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\Kristie\OneDrive\Software Development\Classes\CS 213\Csharp Projects\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\Kristie\OneDrive\Software Development\Classes\CS 213\Csharp Projects\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojResolveAssemblyReference.cache
+C:\Users\Kristie\OneDrive\Software Development\Classes\CS 213\Csharp Projects\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\Kristie\OneDrive\Software Development\Classes\CS 213\Csharp Projects\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\Kristie\OneDrive\Software Development\Classes\CS 213\Csharp Projects\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache
